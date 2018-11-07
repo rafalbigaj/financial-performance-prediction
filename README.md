@@ -59,7 +59,7 @@ See the [instructions](#binding-services-in-bluemix).
 ### Deploying locally
 Running the application locally is useful when you want to test your changes before deploying them to Bluemix. For information about working with source code, see [Source code changes](#source-code-changes).
 
-When the changes are ready, open a shell, change the directory to your cloned repository, and run `npm start` to start the application. The running application is available in a browser at *http://localhost:4000*. In develompent mode, the hot reloading feature is available at port 4010.
+When the changes are ready, open a shell, change the directory to your cloned repository, and run `npm start` to start the application. The running application is available in a browser at *http://localhost:4000*. In development mode, the hot reloading feature is available at port `4010`.
 
 Applications that run locally can also use the Watson Machine Learning and dashDB Bluemix services. See the [instructions](#link-local-application-with-the-bluemix-environment).
 
